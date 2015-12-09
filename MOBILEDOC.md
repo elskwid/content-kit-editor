@@ -88,7 +88,7 @@ Atoms have a name, text value and arbitrary payload.
 
 **Card definition signature**
 
-Atoms have a name and arbitrary payload.
+Cards have a name and arbitrary payload.
 
 ```
 {
